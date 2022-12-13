@@ -557,6 +557,24 @@ section {
   color: #2c4964;
 }
 
+.card-body {
+  color: #2c4964 !important;
+}
+.list-group-item {
+  margin: 4px 0;
+  padding: 16px 16px 8px 16px !important;
+}
+.custom-list-title {
+  background-color: #2c4964 !important;
+}
+.lead {
+  font-weight: 600 !important;
+  font-size: 16px !important;
+}
+.badge {
+  min-width: 125px !important;
+  color: #fff;
+}
 .section-title h2::before {
   content: "";
   position: absolute;
@@ -775,12 +793,6 @@ section {
   margin-left: 85px;
   line-height: 24px;
   font-size: 14px;
-}
-
-.about .video-box {
-  background: url("../img/about.jpg") center center no-repeat;
-  background-size: cover;
-  min-height: 500px;
 }
 
 .about .play-btn {
