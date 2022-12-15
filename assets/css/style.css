@@ -709,11 +709,17 @@ section {
   color: #848484;
 }
 .titluLi {
-  margin-left: 8px;
-  border-left: 8px solid #2c496444;
+  margin-left: 0px;
+  border-left: 0px solid #2c496444;
   color: #2c4964 !important;
-  padding-left: 16px !important;
+
   font-size: 16px;
+}
+.customLi {
+  padding: 0px 32px;
+}
+.pretLi {
+  background-color: #1977cc;
 }
 /*--------------------------------------------------------------
 # About
