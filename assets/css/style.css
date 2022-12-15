@@ -709,9 +709,11 @@ section {
   color: #848484;
 }
 .titluLi {
+  margin-left: 8px;
   border-left: 8px solid #2c496444;
-  color: red !important;
+  color: #2c4964 !important;
   padding-left: 16px !important;
+  font-size: 16px;
 }
 /*--------------------------------------------------------------
 # About
