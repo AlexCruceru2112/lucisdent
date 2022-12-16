@@ -712,13 +712,17 @@ section {
   font-size: 16px;
 }
 .customLi {
+  border-radius: 8px !important;
+  margin: 4px 0px;
 }
 .pretLi {
-  font-size: 12px;
   height: 32px;
-  width: 128px;
+  width: 96px;
+
   background-color: #2c4964;
+  font-size: 12px;
 }
+
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
